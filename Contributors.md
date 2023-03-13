@@ -265,6 +265,7 @@ Adwai
 - [akele-guzay]
 - [Xanthium]
 -[Urvi]
+-[Mohit pargaie](https://githhub.com/morehit)
 - [Dhemeira](https://github.com/dhemeira)
 - [Anindo Sarker](https://github.com/anindosarker/)
 - [Codey Gallup](https://github.com/Codeyg12)
